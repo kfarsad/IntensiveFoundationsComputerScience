@@ -5,6 +5,8 @@ from game.layout import Layout  # For drawing the layout and quit button
 from game.user_input import get_user_input  # For collecting user input
 from game.leaderboard import Leaderboard  # Interface for leaderboard logic
 
+
+## TEST FOR GIT
 def main():
     """
     Entry point for the memory game application.
